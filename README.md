@@ -1,9 +1,9 @@
 # Unifying_subiculum
 
-The following contains all the code required to recreate the figures for the paper: Unifying the Subiculum: A Predictive Map Approach (2024).
+The following contains all the code required to recreate the figures for the paper: Bennett L, de Cothi W, Muessig L, Rodrigues F R, Cacucci F, Wills T J, Sun Y, Giocomo L M, Lever C, Poulter S, Barry C. Unifying the Subiculum: A Predictive Map Approach. 2024.
 
 ## Requirements
-The code requires Python3 and Pip to install relevant packages.
+The code requires Python3 and Pip3 to install relevant packages.
 
 
 ## Procedure
