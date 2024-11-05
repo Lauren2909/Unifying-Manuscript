@@ -1,4 +1,4 @@
-# Unifying Subicular Function: A Predictive Map Approach
+%# Unifying Subicular Function: A Predictive Map Approach
 
 The following contains all the code required to recreate the figures for the paper: Bennett L, de Cothi W, Muessig L, Rodrigues F R, Cacucci F, Wills T J, Sun Y, Giocomo L M, Lever C, Poulter S, Barry C. Unifying Subicular Function: A Predictive Map Approach. 2024.
 
